@@ -66,7 +66,7 @@
 - **React-router-dom**
 
 ### Api
-[Hello rails backend](https://github.com/danielsafari143/hello-react-fronted)
+[Hello rails backend](https://github.com/danielsafari143/hello-rails-backend)
 
 <!-- GETTING STARTED -->
 
