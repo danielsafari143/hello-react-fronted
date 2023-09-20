@@ -56,7 +56,6 @@
 </details>
 
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -68,7 +67,6 @@
 ### Api
 [Hello rails backend](https://github.com/danielsafari143/hello-rails-backend/tree/route)
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -108,7 +106,6 @@ Clone this repository to your desired folder: https://github.com/danielsafari143
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -116,7 +113,6 @@ Clone this repository to your desired folder: https://github.com/danielsafari143
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -126,7 +122,6 @@ Feel free to check the [issues page](https://github.com/danielsafari143/hello-re
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -134,7 +129,6 @@ If you like this project, support and encourage me and give this project a ⭐�
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -142,10 +136,9 @@ Thank you microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/danielsafari143/hello-react-fronted/develop/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
